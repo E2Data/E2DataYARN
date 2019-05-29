@@ -1,0 +1,6 @@
+<configuration>
+	<property>
+		<name>yarn.resource-types</name>
+		<value>yarn.io/gpu-geforcegtx10606gb,yarn.io/gpu-teslav100sxm232gb</value>
+       	</property>
+</configuration>
